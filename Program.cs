@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 1: Задайте двумерный массив символов (тип char [,]).
+//Создать строку из символов этого массива.
