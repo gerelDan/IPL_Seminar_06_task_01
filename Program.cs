@@ -1,7 +1,5 @@
 ﻿// Задача 1: Задайте двумерный массив символов (тип char [,]).
 //Создать строку из символов этого массива.
-using System.Reflection.Metadata;
-using System.Xml.XPath;
 
 char[,] FillArray(int rows, int columns)
 {
